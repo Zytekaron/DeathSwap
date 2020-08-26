@@ -1,0 +1,8 @@
+name: DeathSwap
+version: @version@
+main: com.zytekaron.deathswap.Main
+api-version: 1.15
+prefix: DeathSwap
+authors: [Zytekaron]
+description: A DeathSwap plugin made for multiple players
+website: zytekaron.com
